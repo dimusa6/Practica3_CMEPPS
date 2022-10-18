@@ -1,0 +1,4 @@
+2022-10-18 11:10:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "BOOKENTITY" no encontrada
+Table "BOOKENTITY" not found; SQL statement:
+INSERT INTO bookEntity VALUES (1,'Don Quijote de la Mancha') [42102-199]
